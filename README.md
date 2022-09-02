@@ -1,6 +1,6 @@
 # HelloWord
 
-[Deployed Hello, Word Game ](https://BlueAngler.github.io/HelloWord/ "Hello, Word")
+[Deployed Hello, Word Game ](https://aszpan.github.io/HelloWord/ "Hello, Word")
 
 ## Purpose:
 
